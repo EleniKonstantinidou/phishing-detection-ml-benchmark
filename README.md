@@ -16,7 +16,8 @@ The dataset was obtained from the UC Irvine Machine Learning Repository and aggr
 - **Missing Values:** 0 (verified with no missing values or unknown '?' symbol)
 - **Target Variable (Result):** Binary classification where **1:** Legitimate website & **-1:** Phishing website
 
-**Feature List and Mappings**
+
+## Feature List and Mappings
 
 *Below we outline in detail what each value of the dataset represents in each attribute column.*
 
